@@ -1,4 +1,5 @@
-🔬 Test A/B y Optimización del Embudo (Funnel) en Aplicación Móvil
+🔬 Test A/A/B y Optimización del Embudo en Aplicación Móvil
+
 Visión General y Problema de Negocio
 Este proyecto se centra en la experimentación (A/B Testing) y el análisis de eventos para una startup de venta de alimentos. El objetivo principal fue validar un cambio de fuente (diseño) propuesto por el equipo de producto y, al mismo tiempo, analizar el embudo de conversión de los usuarios.
 
