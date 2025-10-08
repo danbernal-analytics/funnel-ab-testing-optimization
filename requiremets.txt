@@ -1,7 +1,0 @@
-# Requerimientos para A/A/B Testing, Funnel Analysis y Pruebas Estadísticas
-pandas>=2.0.0
-numpy>=1.24.0
-matplotlib>=3.7.0
-seaborn>=0.12.0
-scipy>=1.10.0  # Crucial para las pruebas estadísticas
-math
