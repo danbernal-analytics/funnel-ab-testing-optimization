@@ -1,4 +1,4 @@
-# Requerimientos para A/A/B Testing, Funnel Analysis y Pruebas Estadísticas
+# Requerimientos para AA/B Testing, Funnel Analysis y Pruebas Estadísticas
 pandas>=2.0.0
 numpy>=1.24.0
 matplotlib>=3.7.0
