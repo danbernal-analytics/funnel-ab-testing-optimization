@@ -18,7 +18,6 @@ MainScreenAppear → OffersScreenAppear	Baja (Aproximadamente 40%)	Cuello de Bot
 OffersScreenAppear → CartScreenAppear	Moderada	Los usuarios que ven ofertas se convierten a carrito de manera estable.
 CartScreenAppear → PaymentScreenAppear	Alta	La tasa de pago desde el carrito es alta, lo que indica que el proceso de checkout funciona bien.
 
-Exportar a Hojas de cálculo
 2. Resultados de la Prueba A/B (Cambio de Fuente)
 La prueba comparó un Grupo de Prueba (ExpId 248) con dos grupos de control (246 y 247).
 
