@@ -3,7 +3,9 @@
 ## 🎯 Objetivo de Negocio
 Validar si un cambio de fuente propuesto por el equipo de producto impacta negativamente en la conversión de usuarios y, en paralelo, identificar cuellos de botella críticos dentro del embudo de conversión de una aplicación móvil de venta de alimentos.
 
-%% 💡 Resumen y Solución de Negocio
+---
+
+## 💡 Resumen y Solución de Negocio
 
 Este proyecto se centró en experimentación controlada (A/A/B Testing) y análisis de eventos para evaluar un cambio de diseño (tipografía) y entender el comportamiento de los usuarios a lo largo del funnel de conversión.
 Además de validar estadísticamente el impacto del rediseño, se realizó un análisis profundo del embudo, permitiendo identificar oportunidades de optimización con alto potencial de impacto en ventas.
